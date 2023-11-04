@@ -1,4 +1,4 @@
-// linear search using flag 
+ // linear search using flag 
 
 #include<stdio.h>
 int main()
